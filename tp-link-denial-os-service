@@ -1,0 +1,56 @@
+> [Suggested description]
+> TP-Link TL-WR940N 3.16.9 devices
+> allow remote attackers to cause a denial of service via a slowloris attack.
+>
+> ------------------------------------------
+>
+> [Additional Information]
+> Espero Que Corrigem Essa Falha, Obrigado
+> we still don't have an update or correction of this vulnerability for how long, but I believe that after this report, tp link will deal with it
+>
+> ------------------------------------------
+>
+> [VulnerabilityType Other]
+> Denial Of Service
+>
+> ------------------------------------------
+>
+> [Vendor of Product]
+> https://www.tp-link.com
+>
+> ------------------------------------------
+>
+> [Affected Product Code Base]
+> TP-link - TL-WR940N
+> https://www.amazon.com.br/Roteador-TP-Link-Wireless-TL-WR940N-450mbps/dp/B003Y5RYNY/ref=sr_1_2?adgrpid=79466353817&dchild=1&gclid=Cj0KCQiAtqL-BRC0ARIsAF4K3WFuBf7uQFJxmG9KtX_ztF0UVkHbZB8EVog7sqK94w5B841Am59LQWwaAqmGEALw_wcB&hvadid=426075336473&hvdev=c&hvlocphy=1001742&hvnetw=g&hvqmt=b&hvrand=260396010277065723&hvtargid=kwd-298476032141&hydadcr=1466_11510613&keywords=wr940n&qid=1607009266&sr=8-2&tag=hydrbrgk-20 - TP-link Fireware Version Firmware 3.16.9
+>
+> ------------------------------------------
+>
+> [Affected Component]
+> Hardware
+>
+> ------------------------------------------
+>
+> [Attack Type]
+> Local
+>
+> ------------------------------------------
+>
+> [Impact Denial of Service]
+> true
+>
+> ------------------------------------------
+>
+> [Attack Vectors]
+> download the ready software, slowloris it was developed in the language, perl from github execute the command python3 slowloris.py 192.168.0.1 or 192.168.1.1 your gateway of router
+>
+> ------------------------------------------
+>
+> [Reference]
+> https://brunoinformaticasolutions.blogspot.com/
+> https://www.tp-link.com/us/security
+>
+> ------------------------------------------
+>
+> [Discoverer]
+> Bruno Henrique 
