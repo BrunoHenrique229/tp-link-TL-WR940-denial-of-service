@@ -1,4 +1,5 @@
-> [Suggested description]
+> CVE-2020-29549
+[Suggested description]
 > TP-Link TL-WR940N 3.16.9 devices
 > allow remote attackers to cause a denial of service via a slowloris attack.
 >
